@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wXETW5CQYJehtQ07spqGz47UNR4+Q3wnT5eGQPlrERBjRsTSKnFZkS/V7SvU0hX/BpEtVfhfP8cs6rXj4VOdKA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\asharif\\source\\repos\\PaymentProcessor\\Filed.Api.Models\\Filed.Api.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\asharif\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

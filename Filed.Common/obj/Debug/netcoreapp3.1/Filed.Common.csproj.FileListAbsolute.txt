@@ -1,0 +1,9 @@
+C:\Users\asharif\source\repos\PaymentProcessor\Filed.Common\bin\Debug\netcoreapp3.1\Filed.Common.deps.json
+C:\Users\asharif\source\repos\PaymentProcessor\Filed.Common\bin\Debug\netcoreapp3.1\Filed.Common.dll
+C:\Users\asharif\source\repos\PaymentProcessor\Filed.Common\bin\Debug\netcoreapp3.1\Filed.Common.pdb
+C:\Users\asharif\source\repos\PaymentProcessor\Filed.Common\obj\Debug\netcoreapp3.1\Filed.Common.csprojAssemblyReference.cache
+C:\Users\asharif\source\repos\PaymentProcessor\Filed.Common\obj\Debug\netcoreapp3.1\Filed.Common.AssemblyInfoInputs.cache
+C:\Users\asharif\source\repos\PaymentProcessor\Filed.Common\obj\Debug\netcoreapp3.1\Filed.Common.AssemblyInfo.cs
+C:\Users\asharif\source\repos\PaymentProcessor\Filed.Common\obj\Debug\netcoreapp3.1\Filed.Common.csproj.CoreCompileInputs.cache
+C:\Users\asharif\source\repos\PaymentProcessor\Filed.Common\obj\Debug\netcoreapp3.1\Filed.Common.dll
+C:\Users\asharif\source\repos\PaymentProcessor\Filed.Common\obj\Debug\netcoreapp3.1\Filed.Common.pdb

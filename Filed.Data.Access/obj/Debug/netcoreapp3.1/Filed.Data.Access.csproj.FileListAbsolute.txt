@@ -1,0 +1,17 @@
+C:\Users\asharif\source\repos\PaymentProcessor\Filed.Data.Access\bin\Debug\netcoreapp3.1\Filed.Data.Access.deps.json
+C:\Users\asharif\source\repos\PaymentProcessor\Filed.Data.Access\bin\Debug\netcoreapp3.1\Filed.Data.Access.runtimeconfig.json
+C:\Users\asharif\source\repos\PaymentProcessor\Filed.Data.Access\bin\Debug\netcoreapp3.1\Filed.Data.Access.runtimeconfig.dev.json
+C:\Users\asharif\source\repos\PaymentProcessor\Filed.Data.Access\bin\Debug\netcoreapp3.1\Filed.Data.Access.dll
+C:\Users\asharif\source\repos\PaymentProcessor\Filed.Data.Access\bin\Debug\netcoreapp3.1\Filed.Data.Access.pdb
+C:\Users\asharif\source\repos\PaymentProcessor\Filed.Data.Access\bin\Debug\netcoreapp3.1\Filed.Common.dll
+C:\Users\asharif\source\repos\PaymentProcessor\Filed.Data.Access\bin\Debug\netcoreapp3.1\Filed.Data.Models.dll
+C:\Users\asharif\source\repos\PaymentProcessor\Filed.Data.Access\bin\Debug\netcoreapp3.1\Filed.Common.pdb
+C:\Users\asharif\source\repos\PaymentProcessor\Filed.Data.Access\bin\Debug\netcoreapp3.1\Filed.Data.Models.pdb
+C:\Users\asharif\source\repos\PaymentProcessor\Filed.Data.Access\obj\Debug\netcoreapp3.1\Filed.Data.Access.csprojAssemblyReference.cache
+C:\Users\asharif\source\repos\PaymentProcessor\Filed.Data.Access\obj\Debug\netcoreapp3.1\Filed.Data.Access.AssemblyInfoInputs.cache
+C:\Users\asharif\source\repos\PaymentProcessor\Filed.Data.Access\obj\Debug\netcoreapp3.1\Filed.Data.Access.AssemblyInfo.cs
+C:\Users\asharif\source\repos\PaymentProcessor\Filed.Data.Access\obj\Debug\netcoreapp3.1\Filed.Data.Access.csproj.CoreCompileInputs.cache
+C:\Users\asharif\source\repos\PaymentProcessor\Filed.Data.Access\obj\Debug\netcoreapp3.1\Filed.Data.Access.csproj.CopyComplete
+C:\Users\asharif\source\repos\PaymentProcessor\Filed.Data.Access\obj\Debug\netcoreapp3.1\Filed.Data.Access.dll
+C:\Users\asharif\source\repos\PaymentProcessor\Filed.Data.Access\obj\Debug\netcoreapp3.1\Filed.Data.Access.pdb
+C:\Users\asharif\source\repos\PaymentProcessor\Filed.Data.Access\obj\Debug\netcoreapp3.1\Filed.Data.Access.genruntimeconfig.cache
