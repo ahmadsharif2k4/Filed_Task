@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\asharif\\source\\repos\\PaymentProcessor\\Filed.Api.Models\\Filed.Api.Models.csproj": {}
+    "E:\\Task\\Filed_Task\\Filed.Api.Models\\Filed.Api.Models.csproj": {}
   },
   "projects": {
-    "C:\\Users\\asharif\\source\\repos\\PaymentProcessor\\Filed.Api.Models\\Filed.Api.Models.csproj": {
+    "E:\\Task\\Filed_Task\\Filed.Api.Models\\Filed.Api.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\asharif\\source\\repos\\PaymentProcessor\\Filed.Api.Models\\Filed.Api.Models.csproj",
+        "projectUniqueName": "E:\\Task\\Filed_Task\\Filed.Api.Models\\Filed.Api.Models.csproj",
         "projectName": "Filed.Api.Models",
-        "projectPath": "C:\\Users\\asharif\\source\\repos\\PaymentProcessor\\Filed.Api.Models\\Filed.Api.Models.csproj",
+        "projectPath": "E:\\Task\\Filed_Task\\Filed.Api.Models\\Filed.Api.Models.csproj",
         "packagesPath": "C:\\Users\\asharif\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\asharif\\source\\repos\\PaymentProcessor\\Filed.Api.Models\\obj\\",
+        "outputPath": "E:\\Task\\Filed_Task\\Filed.Api.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\asharif\\AppData\\Roaming\\NuGet\\NuGet.Config",

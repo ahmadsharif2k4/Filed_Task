@@ -1,6 +1,7 @@
 ﻿using Filed.Api.Models.Payments;
 using Filed.Apis.Interfaces;
 using Filed.Apis.PaymentGateways;
+using Filed.Apis.RetryPattern;
 using Filed.Common.Enums;
 using Filed.Common.Exceptions;
 using Filed.Data.Access.DAL;
@@ -58,12 +59,12 @@ namespace Filed.Apis.Endpoints
 
                 _uow.Add(paymentStatus);
                 await _uow.CommitAsync();
-                
+
                 return true;
             }
             catch (Exception ex)
             {
-                 throw new BadRequestException(ex.Message);
+                throw new BadRequestException(ex.Message);
             }
         }
     }

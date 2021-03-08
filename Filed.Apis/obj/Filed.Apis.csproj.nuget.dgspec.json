@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\asharif\\source\\repos\\PaymentProcessor\\Filed.Apis\\Filed.Apis.csproj": {}
+    "E:\\Task\\Filed_Task\\Filed.Apis\\Filed.Apis.csproj": {}
   },
   "projects": {
-    "C:\\Users\\asharif\\source\\repos\\PaymentProcessor\\Filed.Api.Models\\Filed.Api.Models.csproj": {
+    "E:\\Task\\Filed_Task\\Filed.Api.Models\\Filed.Api.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\asharif\\source\\repos\\PaymentProcessor\\Filed.Api.Models\\Filed.Api.Models.csproj",
+        "projectUniqueName": "E:\\Task\\Filed_Task\\Filed.Api.Models\\Filed.Api.Models.csproj",
         "projectName": "Filed.Api.Models",
-        "projectPath": "C:\\Users\\asharif\\source\\repos\\PaymentProcessor\\Filed.Api.Models\\Filed.Api.Models.csproj",
+        "projectPath": "E:\\Task\\Filed_Task\\Filed.Api.Models\\Filed.Api.Models.csproj",
         "packagesPath": "C:\\Users\\asharif\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\asharif\\source\\repos\\PaymentProcessor\\Filed.Api.Models\\obj\\",
+        "outputPath": "E:\\Task\\Filed_Task\\Filed.Api.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\asharif\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -64,14 +64,14 @@
         }
       }
     },
-    "C:\\Users\\asharif\\source\\repos\\PaymentProcessor\\Filed.Apis\\Filed.Apis.csproj": {
+    "E:\\Task\\Filed_Task\\Filed.Apis\\Filed.Apis.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\asharif\\source\\repos\\PaymentProcessor\\Filed.Apis\\Filed.Apis.csproj",
+        "projectUniqueName": "E:\\Task\\Filed_Task\\Filed.Apis\\Filed.Apis.csproj",
         "projectName": "Filed.Apis",
-        "projectPath": "C:\\Users\\asharif\\source\\repos\\PaymentProcessor\\Filed.Apis\\Filed.Apis.csproj",
+        "projectPath": "E:\\Task\\Filed_Task\\Filed.Apis\\Filed.Apis.csproj",
         "packagesPath": "C:\\Users\\asharif\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\asharif\\source\\repos\\PaymentProcessor\\Filed.Apis\\obj\\",
+        "outputPath": "E:\\Task\\Filed_Task\\Filed.Apis\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\asharif\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -88,11 +88,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\asharif\\source\\repos\\PaymentProcessor\\Filed.Api.Models\\Filed.Api.Models.csproj": {
-                "projectPath": "C:\\Users\\asharif\\source\\repos\\PaymentProcessor\\Filed.Api.Models\\Filed.Api.Models.csproj"
+              "E:\\Task\\Filed_Task\\Filed.Api.Models\\Filed.Api.Models.csproj": {
+                "projectPath": "E:\\Task\\Filed_Task\\Filed.Api.Models\\Filed.Api.Models.csproj"
               },
-              "C:\\Users\\asharif\\source\\repos\\PaymentProcessor\\Filed.Data.Access\\Filed.Data.Access.csproj": {
-                "projectPath": "C:\\Users\\asharif\\source\\repos\\PaymentProcessor\\Filed.Data.Access\\Filed.Data.Access.csproj"
+              "E:\\Task\\Filed_Task\\Filed.Data.Access\\Filed.Data.Access.csproj": {
+                "projectPath": "E:\\Task\\Filed_Task\\Filed.Data.Access\\Filed.Data.Access.csproj"
               }
             }
           }
@@ -125,14 +125,14 @@
         }
       }
     },
-    "C:\\Users\\asharif\\source\\repos\\PaymentProcessor\\Filed.Common\\Filed.Common.csproj": {
+    "E:\\Task\\Filed_Task\\Filed.Common\\Filed.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\asharif\\source\\repos\\PaymentProcessor\\Filed.Common\\Filed.Common.csproj",
+        "projectUniqueName": "E:\\Task\\Filed_Task\\Filed.Common\\Filed.Common.csproj",
         "projectName": "Filed.Common",
-        "projectPath": "C:\\Users\\asharif\\source\\repos\\PaymentProcessor\\Filed.Common\\Filed.Common.csproj",
+        "projectPath": "E:\\Task\\Filed_Task\\Filed.Common\\Filed.Common.csproj",
         "packagesPath": "C:\\Users\\asharif\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\asharif\\source\\repos\\PaymentProcessor\\Filed.Common\\obj\\",
+        "outputPath": "E:\\Task\\Filed_Task\\Filed.Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\asharif\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -179,14 +179,14 @@
         }
       }
     },
-    "C:\\Users\\asharif\\source\\repos\\PaymentProcessor\\Filed.Data.Access\\Filed.Data.Access.csproj": {
+    "E:\\Task\\Filed_Task\\Filed.Data.Access\\Filed.Data.Access.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\asharif\\source\\repos\\PaymentProcessor\\Filed.Data.Access\\Filed.Data.Access.csproj",
+        "projectUniqueName": "E:\\Task\\Filed_Task\\Filed.Data.Access\\Filed.Data.Access.csproj",
         "projectName": "Filed.Data.Access",
-        "projectPath": "C:\\Users\\asharif\\source\\repos\\PaymentProcessor\\Filed.Data.Access\\Filed.Data.Access.csproj",
+        "projectPath": "E:\\Task\\Filed_Task\\Filed.Data.Access\\Filed.Data.Access.csproj",
         "packagesPath": "C:\\Users\\asharif\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\asharif\\source\\repos\\PaymentProcessor\\Filed.Data.Access\\obj\\",
+        "outputPath": "E:\\Task\\Filed_Task\\Filed.Data.Access\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\asharif\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -203,11 +203,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\asharif\\source\\repos\\PaymentProcessor\\Filed.Common\\Filed.Common.csproj": {
-                "projectPath": "C:\\Users\\asharif\\source\\repos\\PaymentProcessor\\Filed.Common\\Filed.Common.csproj"
+              "E:\\Task\\Filed_Task\\Filed.Common\\Filed.Common.csproj": {
+                "projectPath": "E:\\Task\\Filed_Task\\Filed.Common\\Filed.Common.csproj"
               },
-              "C:\\Users\\asharif\\source\\repos\\PaymentProcessor\\Filed.Data.Models\\Filed.Data.Models.csproj": {
-                "projectPath": "C:\\Users\\asharif\\source\\repos\\PaymentProcessor\\Filed.Data.Models\\Filed.Data.Models.csproj"
+              "E:\\Task\\Filed_Task\\Filed.Data.Models\\Filed.Data.Models.csproj": {
+                "projectPath": "E:\\Task\\Filed_Task\\Filed.Data.Models\\Filed.Data.Models.csproj"
               }
             }
           }
@@ -258,14 +258,14 @@
         }
       }
     },
-    "C:\\Users\\asharif\\source\\repos\\PaymentProcessor\\Filed.Data.Models\\Filed.Data.Models.csproj": {
+    "E:\\Task\\Filed_Task\\Filed.Data.Models\\Filed.Data.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\asharif\\source\\repos\\PaymentProcessor\\Filed.Data.Models\\Filed.Data.Models.csproj",
+        "projectUniqueName": "E:\\Task\\Filed_Task\\Filed.Data.Models\\Filed.Data.Models.csproj",
         "projectName": "Filed.Data.Models",
-        "projectPath": "C:\\Users\\asharif\\source\\repos\\PaymentProcessor\\Filed.Data.Models\\Filed.Data.Models.csproj",
+        "projectPath": "E:\\Task\\Filed_Task\\Filed.Data.Models\\Filed.Data.Models.csproj",
         "packagesPath": "C:\\Users\\asharif\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\asharif\\source\\repos\\PaymentProcessor\\Filed.Data.Models\\obj\\",
+        "outputPath": "E:\\Task\\Filed_Task\\Filed.Data.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\asharif\\AppData\\Roaming\\NuGet\\NuGet.Config",

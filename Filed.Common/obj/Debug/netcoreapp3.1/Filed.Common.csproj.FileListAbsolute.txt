@@ -7,3 +7,11 @@ C:\Users\asharif\source\repos\PaymentProcessor\Filed.Common\obj\Debug\netcoreapp
 C:\Users\asharif\source\repos\PaymentProcessor\Filed.Common\obj\Debug\netcoreapp3.1\Filed.Common.csproj.CoreCompileInputs.cache
 C:\Users\asharif\source\repos\PaymentProcessor\Filed.Common\obj\Debug\netcoreapp3.1\Filed.Common.dll
 C:\Users\asharif\source\repos\PaymentProcessor\Filed.Common\obj\Debug\netcoreapp3.1\Filed.Common.pdb
+E:\Task\Filed_Task\Filed.Common\bin\Debug\netcoreapp3.1\Filed.Common.deps.json
+E:\Task\Filed_Task\Filed.Common\bin\Debug\netcoreapp3.1\Filed.Common.dll
+E:\Task\Filed_Task\Filed.Common\bin\Debug\netcoreapp3.1\Filed.Common.pdb
+E:\Task\Filed_Task\Filed.Common\obj\Debug\netcoreapp3.1\Filed.Common.AssemblyInfoInputs.cache
+E:\Task\Filed_Task\Filed.Common\obj\Debug\netcoreapp3.1\Filed.Common.AssemblyInfo.cs
+E:\Task\Filed_Task\Filed.Common\obj\Debug\netcoreapp3.1\Filed.Common.csproj.CoreCompileInputs.cache
+E:\Task\Filed_Task\Filed.Common\obj\Debug\netcoreapp3.1\Filed.Common.dll
+E:\Task\Filed_Task\Filed.Common\obj\Debug\netcoreapp3.1\Filed.Common.pdb

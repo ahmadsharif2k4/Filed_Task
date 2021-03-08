@@ -7,3 +7,11 @@ C:\Users\asharif\source\repos\PaymentProcessor\Filed.Api.Models\obj\Debug\netcor
 C:\Users\asharif\source\repos\PaymentProcessor\Filed.Api.Models\obj\Debug\netcoreapp3.1\Filed.Api.Models.csproj.CoreCompileInputs.cache
 C:\Users\asharif\source\repos\PaymentProcessor\Filed.Api.Models\obj\Debug\netcoreapp3.1\Filed.Api.Models.dll
 C:\Users\asharif\source\repos\PaymentProcessor\Filed.Api.Models\obj\Debug\netcoreapp3.1\Filed.Api.Models.pdb
+E:\Task\Filed_Task\Filed.Api.Models\bin\Debug\netcoreapp3.1\Filed.Api.Models.deps.json
+E:\Task\Filed_Task\Filed.Api.Models\bin\Debug\netcoreapp3.1\Filed.Api.Models.dll
+E:\Task\Filed_Task\Filed.Api.Models\bin\Debug\netcoreapp3.1\Filed.Api.Models.pdb
+E:\Task\Filed_Task\Filed.Api.Models\obj\Debug\netcoreapp3.1\Filed.Api.Models.AssemblyInfoInputs.cache
+E:\Task\Filed_Task\Filed.Api.Models\obj\Debug\netcoreapp3.1\Filed.Api.Models.AssemblyInfo.cs
+E:\Task\Filed_Task\Filed.Api.Models\obj\Debug\netcoreapp3.1\Filed.Api.Models.csproj.CoreCompileInputs.cache
+E:\Task\Filed_Task\Filed.Api.Models\obj\Debug\netcoreapp3.1\Filed.Api.Models.dll
+E:\Task\Filed_Task\Filed.Api.Models\obj\Debug\netcoreapp3.1\Filed.Api.Models.pdb

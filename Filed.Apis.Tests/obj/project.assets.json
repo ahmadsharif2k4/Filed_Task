@@ -8261,11 +8261,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\asharif\\source\\repos\\PaymentProcessor\\Filed.Apis.Tests\\Filed.Apis.Tests.csproj",
+      "projectUniqueName": "E:\\Task\\Filed_Task\\Filed.Apis.Tests\\Filed.Apis.Tests.csproj",
       "projectName": "Filed.Apis.Tests",
-      "projectPath": "C:\\Users\\asharif\\source\\repos\\PaymentProcessor\\Filed.Apis.Tests\\Filed.Apis.Tests.csproj",
+      "projectPath": "E:\\Task\\Filed_Task\\Filed.Apis.Tests\\Filed.Apis.Tests.csproj",
       "packagesPath": "C:\\Users\\asharif\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\asharif\\source\\repos\\PaymentProcessor\\Filed.Apis.Tests\\obj\\",
+      "outputPath": "E:\\Task\\Filed_Task\\Filed.Apis.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\asharif\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -8282,11 +8282,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\asharif\\source\\repos\\PaymentProcessor\\Filed.Api.Models\\Filed.Api.Models.csproj": {
-              "projectPath": "C:\\Users\\asharif\\source\\repos\\PaymentProcessor\\Filed.Api.Models\\Filed.Api.Models.csproj"
+            "E:\\Task\\Filed_Task\\Filed.Api.Models\\Filed.Api.Models.csproj": {
+              "projectPath": "E:\\Task\\Filed_Task\\Filed.Api.Models\\Filed.Api.Models.csproj"
             },
-            "C:\\Users\\asharif\\source\\repos\\PaymentProcessor\\Filed.Apis\\Filed.Apis.csproj": {
-              "projectPath": "C:\\Users\\asharif\\source\\repos\\PaymentProcessor\\Filed.Apis\\Filed.Apis.csproj"
+            "E:\\Task\\Filed_Task\\Filed.Apis\\Filed.Apis.csproj": {
+              "projectPath": "E:\\Task\\Filed_Task\\Filed.Apis\\Filed.Apis.csproj"
             }
           }
         }
